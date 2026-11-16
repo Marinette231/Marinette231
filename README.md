@@ -17,34 +17,16 @@ Currently wondering why do we exist? I mean are we real?
 - Currently working towards becoming a Python Backend / AI Engineer.
 - Always learning something new (and occasionally Googling the same thing twice).
 
-# Technical skills:
-**Languages**
-- Python, C, C++
-- Java
-- SQL
-
-**Backend & Database**
-- FastAPI
-- SQLite
-- MySQL
-
-**AI & Tools**
-- Google Gemini API
-- Git & GitHub
-- VS Code
+## Technical skills:
+[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,go,cs,java,html,css,mysql,sqlite,fastapi,git,github,vscode&perline=5)](https://skillicons.dev)
 
 ## 🌱 Currently Learning
-
-- Building REST APIs with FastAPI
-- Database design and SQL
-- AI and LLM integration
-- Backend architecture
-- Writing cleaner, more maintainable Python code
+[![Learning](https://skillicons.dev/icons?i=fastapi,django,flask,docker,postgres,redis&perline=5)](https://skillicons.dev)
 
 ## Fun points :)
--⟢ Anime suggestions are always appreciated
--⟢ Gaming is fun! Please don't drag me to fps-
--⟢ I like reading ♡
+▸ Anime suggestions are always appreciated
+▸ Gaming is fun! Please don't drag me to fps-
+▸ I like reading ♡
 <!--
 **Marinette231/Marinette231** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
