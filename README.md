@@ -21,7 +21,7 @@ Currently wondering why do we exist? I mean are we real?
 [![My Skills](https://skillicons.dev/icons?i=python,c,cpp,go,cs,java,html,css,mysql,sqlite,fastapi,git,github,vscode&perline=5)](https://skillicons.dev)
 
 ## 🌱 Currently Learning
-[![Learning](https://skillicons.dev/icons?i=fastapi,django,flask,docker,postgres,redis&perline=5)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=fastapi,flask,docker,postgres,redis&perline=5)](https://skillicons.dev)
 
 ## Fun points :)
 ▸ Anime suggestions are always appreciated
